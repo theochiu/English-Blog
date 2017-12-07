@@ -2,7 +2,7 @@
 layout: post
 title:  "Memories of the Homeland"
 date:   2017-12-04 
-background: '/img/posts/06.jpg'
+background: '/img/posts/skylinebackground.jpg'
 author: "Theodore Chiu"
 ---
 
