@@ -12,7 +12,7 @@ author: Theodore Chiu
 description: > # this means to ignore newlines until "baseurl:"
   Theo's Blog
   
-baseurl: "/English-Blog/" # the subpath of your site, e.g. /blog
+baseurl: "/English-Blog" # the subpath of your site, e.g. /blog
 url: "http://theochiu.github.io" # the base hostname & protocol for your site
 rmeote_theme: jekyll-theme-awesome
 twitter_username: jekyllrb

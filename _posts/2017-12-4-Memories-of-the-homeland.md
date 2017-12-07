@@ -2,6 +2,7 @@
 layout: post
 title:  "Memories of the Homeland"
 date:   2017-12-04 
+background: '/img/posts/06.jpg'
 ---
 
 I've been at Purdue a couple weeks, and my first major assignment in English 108 is writing a paper about a narrative important to my life. While I've been thinking of variety of topics I think I'll write about home. I've grown up in California all my life, and out being here in Indiana really puts into perspective my experience of home. The twisting mountains, flowing valleys and tropical Mediterranean climate are just a few of things I will never find in Indiana. 

@@ -4,10 +4,10 @@
     <title>English Remediation</title>
     <description>Theo's Blog
 </description>
-    <link>http://localhost:4000/englblog//</link>
-    <atom:link href="http://localhost:4000/englblog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Dec 2017 19:22:54 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 19:22:54 -0500</lastBuildDate>
+    <link>http://localhost:4000/English-Blog/</link>
+    <atom:link href="http://localhost:4000/English-Blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Dec 2017 20:11:43 -0500</pubDate>
+    <lastBuildDate>Wed, 06 Dec 2017 20:11:43 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 04 Dec 2017 10:40:48 -0500</pubDate>
-        <link>http://localhost:4000/englblog//jekyll/update/2017/12/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//jekyll/update/2017/12/04/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/English-Blog/jekyll/update/2017/12/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/jekyll/update/2017/12/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -49,8 +49,8 @@
 &lt;p&gt;However one great feature of California is its climate. Situated on one of the Earth’s harmonic points dubbed mediterranean climate, California features dry summers and mild winters. In short, most of the planet has cold winters and hot summers. California, though, has a climate identical to coastal regions of the Mediterranean. This pleasant weather being one of California’s most attractive features. Consequently there are many crops that can be grown in California, that cannot be grown (well) in the rest of the United States. For example, grapes for wine are either grown in the Mediterranean, France, or California in the Napa Valley. All of these place share a similar if not identical climate, and California is the only place with this climate in the United States.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/englblog//2017/12/04/Memories-of-the-homeland.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/12/04/Memories-of-the-homeland.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/12/04/Memories-of-the-homeland.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/12/04/Memories-of-the-homeland.html</guid>
         
         
       </item>
@@ -91,8 +91,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Oct 2017 10:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/31/man-must-explore.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/31/man-must-explore.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/31/man-must-explore.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/31/man-must-explore.html</guid>
         
         
       </item>
@@ -133,8 +133,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 23:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/30/heartbeats.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/30/heartbeats.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/30/heartbeats.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/30/heartbeats.html</guid>
         
         
       </item>
@@ -175,8 +175,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Oct 2017 23:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/29/prophecy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/29/prophecy.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/29/prophecy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/29/prophecy.html</guid>
         
         
       </item>
@@ -217,8 +217,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Oct 2017 23:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/28/exploration.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/28/exploration.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/28/exploration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/28/exploration.html</guid>
         
         
       </item>
@@ -259,8 +259,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Oct 2017 23:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/27/dreams.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/27/dreams.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/27/dreams.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/27/dreams.html</guid>
         
         
       </item>
@@ -301,8 +301,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Oct 2017 23:45:13 -0400</pubDate>
-        <link>http://localhost:4000/englblog//2017/10/26/dinosaurs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/englblog//2017/10/26/dinosaurs.html</guid>
+        <link>http://localhost:4000/English-Blog/2017/10/26/dinosaurs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/English-Blog/2017/10/26/dinosaurs.html</guid>
         
         
       </item>
