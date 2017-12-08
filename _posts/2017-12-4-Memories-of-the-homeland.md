@@ -10,7 +10,7 @@ author: "Theodore Chiu"
 I've been at Purdue a couple weeks, and my first major assignment in English 108 is writing a paper about a narrative important to my life. While I've been thinking of variety of topics I think I'll write about home. I've grown up in California all my life, and out being here in Indiana really puts into perspective my experience of home. The twisting mountains, flowing valleys and tropical Mediterranean climate are just a few of things I will never find in Indiana. 
 
 
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
+<img class="img-fluid" src="{{ "/img/posts/foothillspark.jpg" | relative_url}}" alt="Demo Image">
 
 ## Topography
 In fact California's unique geography affords it all three of these unique features. California has an abdunance of tall mountains cascading into deep valleys. This is a result of its location on a fault line. As the Earth's crust folds into the mantle, tall mountains are formed. While one result of this is beauty beyond belief, it also results in the Achille's heal of California. Earthquakes. The shifting tectonic plates actively cause earthquakes. These earthquakes can cause extreme devastation as highlighted in Hollywood box office *San Andreas* starring Dwayne "The Rock" Johnson. 
