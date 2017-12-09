@@ -6,8 +6,8 @@
 </description>
     <link>http://theochiu.github.io/English-Blog/</link>
     <atom:link href="http://theochiu.github.io/English-Blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Dec 2017 23:41:03 -0500</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2017 23:41:03 -0500</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2017 23:45:21 -0500</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 23:45:21 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/English-Blog/img/posts/IMG_0084.jpg&quot; alt=&quot;Demo Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/English-Blog/img/posts/IMG_3871.JPG&quot; alt=&quot;Demo Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/English-Blog/img/posts/IMG_3871.JPG&quot; alt=&quot;Demo Image&quot; rotate=&quot;90&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;/English-Blog/img/posts/skylinebackground.jpg&quot; alt=&quot;Demo Image&quot; /&gt;&lt;/p&gt;
 
